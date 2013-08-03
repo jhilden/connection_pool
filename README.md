@@ -3,7 +3,7 @@ connection_pool
 
 Generic connection pooling for Ruby.
 
-MongoDB has its own connection pool.  ActiveRecord has its own connection pool.  This is a generic connection pool that can be used with anything, e.g. Redis, Dalli and other Ruby network clients.
+MongoDB has its own connection pool.  ActiveRecord has its own connection pool.  This is a generic connection pool that can be used with anything, e.g. Redis, [Dalli](https://github.com/mperham/dalli) and other Ruby network clients.
 
 
 Install
